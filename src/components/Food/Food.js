@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import Activities from '../Activities/Activities';
 import Cards from '../Cards/Cards';
+import QuestionandAns from '../QuestionandAns/QuestionandAns';
+
+
 import './Food.css'
 
 const Food = () => {
@@ -33,6 +36,7 @@ const Food = () => {
             <div className='right-container'>
                 <Activities activities={activities}></Activities>
             </div>
+            <QuestionandAns></QuestionandAns>
         </div>
     );
 };
