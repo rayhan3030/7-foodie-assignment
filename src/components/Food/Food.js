@@ -6,7 +6,7 @@ import './Food.css'
 const Food = () => {
     const [products, setProducts] = useState([]);
     const [activities, setActivities] = useState([]);
-
+    // fetched data from customized json file and added customized data too
     useEffect(() => {
         fetch('products.json')
             .then(res => res.json())
