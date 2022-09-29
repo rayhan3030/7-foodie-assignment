@@ -1,0 +1,24 @@
+.food-ozon:hover {
+    background-color: blueviolet;
+    color: bisque;
+}
+
+.food-ozon {
+    border-radius: 50%;
+    font-size: 15px;
+    border: 1px dotted blue;
+
+}
+
+.food-div {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px;
+
+}
+
+.food {
+    border: 5px dotted gainsboro;
+    border-radius: 10px;
+    text-align: center;
+}

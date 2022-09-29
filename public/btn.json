@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35160701",
+    "img": "https://thumbsnap.com/i/b8FvZaBv.jpg?0928",
+    "name": "Giant Burger",
+    "info": "The Big Mack is a hamburger sold by the international fast food restaurant",
+    "weight": 2,
+    "time": "2 kg"
+  },
+  {
+    "id": "35160702",
+    "img": "https://thumbsnap.com/i/L4g5G71i.png?0928",
+    "name": "Big Pizza",
+    "info": "The Big Pizaa is a custom pizza sold by the Local fast food restaurant",
+    "weight": 3,
+    "time": "3 kg"
+  },
+  {
+    "id": "35160703",
+    "img": "https://thumbsnap.com/i/UzjddLyr.png?0928",
+    "name": "Biriyani",
+    "info": "A Rich Indian/Bangladeshi Food that have popularity all over the world",
+    "weight": 5,
+    "time": "5 kg"
+  },
+  {
+    "id": "35160704",
+    "img": "https://thumbsnap.com/i/657GR7LR.png?0928",
+    "name": "Tower Nachos",
+    "info": "A special maxican Delicacy is made by local food court named baba Fodo",
+    "weight": 6,
+    "time": "6 kg"
+  },
+  {
+    "id": "35160705",
+    "img": "https://thumbsnap.com/i/cRAbHXhy.png?0928",
+    "name": "Fish Fillet",
+    "info": "Fish item loved by many, eaten by many and we didint bring it mini. It's Huge!",
+    "weight": 8,
+    "time": "8 kg"
+  },
+  {
+    "id": "35160706",
+    "img": "https://thumbsnap.com/i/Rgp4C24C.png?0928",
+    "name": "Giant Stake",
+    "info": "A Giant american buffalo smokey meat steak is made by Sheff Juno Brothers.",
+    "weight": 7,
+    "time": "7 kg"
+  }
+]
