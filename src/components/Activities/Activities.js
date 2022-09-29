@@ -4,7 +4,16 @@ import ActivityBTN from '../ActivityBTN/ActivityBTN';
 import Famount from '../Famount/Famount';
 import Profile from '../Profile/Profile';
 import './Activities.css'
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
+
+const notify = () => {
+    toast('Congratulations !!! You are done with Activity. ')
+}
+
 const Activities = (props) => {
+
 
 
     const [weightBtn, setWeightBtn] = useState([]);
@@ -43,7 +52,8 @@ const Activities = (props) => {
                 <p className='time'>Eating Time : {total} Min</p>
                 <Famount part={part}></Famount>
 
-                <button className='activity'>Activity Completed</button>
+                <button onClick={notify} className='activity'>Activity Completed</button>
+                <ToastContainer />
             </div>
         </div>
     );
