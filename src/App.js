@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
+/** font awsome added and applied on website header */
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHamburger } from '@fortawesome/free-solid-svg-icons';
 import Food from './components/Food/Food';
