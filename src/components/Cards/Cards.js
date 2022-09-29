@@ -2,7 +2,7 @@ import React from 'react';
 import './Cards.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faList } from '@fortawesome/free-solid-svg-icons';
-
+// This is card component 
 
 const Cards = (props) => {
 
